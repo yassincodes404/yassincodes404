@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Yassin</h1>
-<h3 align="center">Backend Developer in Progress 🚀</h3>
+<h3 align="center">Software Engineer | Java & Spring Boot 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Problem+Solver;Building+From+Scratch;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%7C+Spring+Boot;System+Design+Learner;Problem+Solver&center=true&width=500&height=45">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 💡 Passionate about **Backend Development**
-* 🧠 I love solving problems and building systems from scratch
-* 📚 Currently learning **Node.js, Databases, System Design**
-* 🎯 Goal: Become a **Professional Backend Engineer**
+* 💡 Passionate about **Backend Development & System Design**
+* ⚙️ Focused on building scalable and clean architectures
+* 📚 Currently improving skills in **Spring Boot, Databases, and APIs**
+* 🧠 Strong interest in **performance & system design**
 * 📫 Email: **[yassint.codes@gmail.com](mailto:yassint.codes@gmail.com)**
 
 ---
@@ -20,17 +20,8 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,nodejs,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,js,nodejs,html,css,git,docker,linux,oracle,mysql" />
 </p>
-
----
-
-### 🧠 What I Build
-
-* 🛒 **Simple Store App** → Node.js + API
-* 🔐 **Encrypto** → Cryptography Playground
-* 🎮 **Quiz Game (C)**
-* 🏫 **University System App**
 
 ---
 
@@ -58,6 +49,6 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Mindset
 
-> I enjoy turning ideas into real systems and building everything from zero 💻🔥
+> Clean code. Scalable systems. Continuous learning.
