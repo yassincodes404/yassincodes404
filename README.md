@@ -45,26 +45,6 @@
 </p>
 
 
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassincodes404&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yassincodes404&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
-###  GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassincodes404&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
-
 ### 📈 Contribution Activity
 
 <p align="center">
