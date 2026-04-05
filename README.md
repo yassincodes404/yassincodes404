@@ -2,8 +2,6 @@
 
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
----
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/My%20CV-View-green?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -13,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=yassincodes404&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
----
 
 ### 🔗 My Social Accounts
 
@@ -36,7 +33,7 @@
   <img src="https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -48,24 +45,23 @@
   <img src="https://streak-stats.demolab.com?user=yassincodes404&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
+
+###  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yassincodes404&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
----
 
-### 📈 Contribution Activity
+
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassincodes404&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-### ⚡ Philosophy
+### Philosophy
 
 > Clean Code. Scalable Systems. Continuous Growth.
