@@ -27,10 +27,8 @@
 
 <p align="center">
   <a href="mailto:yassint.codes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://www.linkedin.com/in/yassin-tarek-engineer/?locale=en"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/30505390/yassin-tarek<img"> src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </p>
 
 
