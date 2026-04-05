@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/My%20CV-Download-success?style=for-the-badge&logo=google-drive"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://yassin-tarek-portfolio.fly.dev/"><img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/></a>
 </p>
 
 <p align="center">
