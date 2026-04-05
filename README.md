@@ -26,18 +26,6 @@
 
 ---
 
-### 🧠 About Me
-
-* Passionate about **Backend Development using Java & Spring Boot**
-* Focused on building **scalable and clean architectures**
-* Experienced with **REST APIs, JWT Authentication**
-* Familiar with **Docker, Linux, and Database Systems**
-* Strong believer in **Clean Code & SOLID principles**
-* Open for **collaborations, open-source, and real-world projects**
-* Ask me about **Java, Spring Boot, Node.js, Backend Systems**
-
----
-
 ### ⚙️ Top Technical Skills & Tools
 
 <p align="center">
