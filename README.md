@@ -15,7 +15,7 @@
 <h2 align="center"> Check my popular repositories</h2>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/My%20CV-Download-success?style=for-the-badge&logo=google-drive"/></a>
+  <a href="https://drive.google.com/file/d/18JJbI0xuIYbz5z0HrhdVRBqOCy-tRDmZ/view?usp=drive_link"><img src="https://img.shields.io/badge/My%20CV-Download-success?style=for-the-badge&logo=google-drive"/></a>
   <a href="https://yassin-tarek-portfolio.fly.dev/"><img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/></a>
 </p>
 
